@@ -10,7 +10,7 @@
 - 📫 How to reach me **msraut@gmail.com**
 
 - ⚡ Fun fact : **Skilled at Problem Solving and team management. I am good at Photography and editing.**
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fmindninjax%2Fdo-you-listen-to-music-while-coding-29f0&psig=AOvVaw29lf_D4P8MOMHbzGng3B69&ust=1693327571866000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKCq8vTm_4ADFQAAAAAdAAAAABAE" alt="">
+<img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4765ybb71c9rc1m5gjzn3aheiao4lb86jfq190nmuz&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="">
 
 
 <h3 align="left">Connect with me:</h3>
