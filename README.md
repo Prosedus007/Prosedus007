@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prosedus</h1>
 <h3 align="center">Currently pursuing Bachelors degree in Information Technology.</h3>
 
-<div>
+<div display="flex">
   <div>
     - 🌱 I’m currently learning **Node & MERN stack**
 
