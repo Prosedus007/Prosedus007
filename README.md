@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prosedus</h1>
 <h3 align="center">Currently pursuing Bachelors degree in Information Technology.</h3>
 
-<div display="flex">
-  <div>
-    - 🌱 I’m currently learning **Node & MERN stack**
+
+- 🌱 I’m currently learning **Node & MERN stack**
 
 - 👯 I’m looking to collaborate on **any open source project.**
 
@@ -12,11 +11,9 @@
 - 📫 How to reach me **msraut@gmail.com**
 
 - ⚡ Fun fact : **Skilled at Problem Solving and team management. I am good at Photography and editing.**
-  </div>
-  <div>
+
     <img align ="center" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4765ybb71c9rc1m5gjzn3aheiao4lb86jfq190nmuz&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="">
-  </div>
-</div>
+ 
 
 
 
