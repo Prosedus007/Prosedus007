@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact : **Skilled at Problem Solving and team management. I am good at Photography and editing.**
 
-    <img align ="center" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4765ybb71c9rc1m5gjzn3aheiao4lb86jfq190nmuz&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="">
+    <img width= "30px" align ="center" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4765ybb71c9rc1m5gjzn3aheiao4lb86jfq190nmuz&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="">
  
 
 
