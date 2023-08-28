@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Prosedus</h1>
 <h3 align="center">Currently pursuing Bachelors degree in Information Technology.</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
