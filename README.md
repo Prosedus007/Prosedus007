@@ -1,6 +1,7 @@
+<img align ="center" src="https://media.giphy.com/media/3o72FaZgzzFmqoNfBm/giphy.gif" alt="">
 <h1 align="center">Hi 👋, I'm Prosedus</h1>
 <h3 align="center">Currently pursuing Bachelors degree in Information Technology.</h3>
-<img align ="center" src="https://giphy.com/gifs/monstercat-edm-electronic-music-3o72FaZgzzFmqoNfBm" alt="">
+
 
 - 🌱 I’m currently learning **Node & MERN stack**
 
