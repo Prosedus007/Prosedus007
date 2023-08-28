@@ -1,8 +1,10 @@
-### Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Prosedus</h1>
 <h3 align="center">Currently pursuing Bachelors degree in Information Technology.</h3>
-
+<center>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
+</center>
 
 <p align="left">
 </p>
