@@ -1,4 +1,4 @@
-<img align ="center" src="https://gifyu.com/image/Sgg6f" alt="" width="100%">
+<img align ="center" src="https://s11.gifyu.com/images/Sgg6f.gif" alt="" width="100%">
 <h1 align="center">Hi 👋, I'm Prosedus</h1>
 <h3 align="center">Currently pursuing Bachelors degree in Information Technology.</h3>
 
