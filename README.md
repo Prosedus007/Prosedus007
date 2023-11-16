@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/prosedus007](https://github.com/prosedus007)
 
-- 📫 How to reach me **msraut@gmail.com**
+- 📫 How to reach me **msraut07@gmail.com**
 
 - ⚡ Fun fact : **Skilled at Problem Solving and team management. I am good at Photography and editing.**
 
