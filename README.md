@@ -1,9 +1,9 @@
 <img align ="center" src="https://s11.gifyu.com/images/Sgg6f.gif" alt="" width="100%">
 <h1 align="center">Hi 👋, I'm Prosedus</h1>
-<h3 align="center">Currently pursuing Bachelors degree in Information Technology.</h3>
+<h3 align="center">Currently pursuing Masters degree in Data Science at Defence Institute of Advanace Technology(DIAT DU)</h3>
 
 
-- 🌱 I’m currently learning **Node & MERN stack**
+- 🌱 I’m currently learning **Tools for the Data Science**
 
 - 👯 I’m looking to collaborate on **any open source project.**
 
