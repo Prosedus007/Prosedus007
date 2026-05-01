@@ -1,6 +1,6 @@
 <!-- 
   GitHub profile README: copy this file into a repository named exactly like your username
-  (e.g. github.com/prosedus007/prosedus007) as README.md — or paste into any repo README.
+  (e.g. github.com/prosedus007/prosedus007) as README.md
 -->
 
 <div align="center">
@@ -28,9 +28,9 @@
 
 I turn messy data into **clear insights, reliable models, and useful products**. I enjoy end-to-end work: from EDA and dashboards to ML pipelines, GenAI prototypes, and production-style APIs.
 
-- Strong foundation in **DSA, OOP, SQL**, and practical **Python** for analytics & ML  
-- Comfortable across the stack when needed: **MERN**, auth, payments, and dashboards  
-- Tools I use often: **Pandas, scikit-learn, TensorFlow, Databricks, Power BI, Tableau, Excel**  
+- Strong foundation in **DSA, OOP, SQL**, and practical **Python** for analytics & ML
+- Comfortable across the stack when needed: **MERN**, auth, payments, and dashboards
+- Tools I use often: **Pandas, scikit-learn, TensorFlow, Databricks, Power BI, Tableau, Excel**
 - Currently deepening skills in **modern data science tooling and applied AI**
 
 ---
@@ -50,26 +50,60 @@ If you have a scoped project or a longer engagement, **email me a short brief** 
 
 ## Highlight experience (summary)
 
-- **Generative AI / ML** — Legal-domain chatbot on **Databricks** with **MLflow**, strong accuracy on judgment-style data; **ETL + REST** automation  
-- **Freelance Web (MERN)** — Event platform at scale (users, daily events), **OAuth + payments**, QR check-in, live ops dashboards  
-- **Analytics** — Retail profitability project (~10K rows): cleaning, EDA, **Power BI** + **Jupyter** KPI reporting  
+- **Generative AI / ML** — Legal-domain chatbot on **Databricks** with **MLflow**, strong accuracy on judgment-style data; **ETL + REST** automation
+- **Freelance Web (MERN)** — Event platform at scale (users, daily events), **OAuth + payments**, QR check-in, live ops dashboards
+- **Analytics** — Retail profitability project (~10K rows): cleaning, EDA, **Power BI** + **Jupyter** KPI reporting
 
 *(Details and metrics are on my resume — happy to share on request.)*
 
 ---
+
 ## Tech stack
 
-<p ><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/></a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/></a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/></a></p>
+**Languages & Core**
 
-**Also:** SQL · MongoDB · Git · VS Code · Databricks · Power BI · Tableau · Excel · Prompt engineering (for AI workflows)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+**Data Science & ML**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+
+**BI & Analytics**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+**Web & Backend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Databases & Tools**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 ---
 
 ## Let's connect
 
-<p align="left"><a href="https://www.linkedin.com/in/msraut07/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="32" width="40"/></a> <a href="https://leetcode.com/Prosedus07" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="32" width="40"/></a></p>
-
-**Email:** [msraut07@gmail.com](mailto:msraut07@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-msraut07-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/msraut07/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Prosedus07-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Prosedus07/)
+[![Email](https://img.shields.io/badge/Gmail-msraut07@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msraut07@gmail.com)
 
 ---
 
